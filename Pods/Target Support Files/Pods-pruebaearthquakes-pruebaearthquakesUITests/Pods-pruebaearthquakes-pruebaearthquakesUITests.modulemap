@@ -1,0 +1,6 @@
+framework module Pods_pruebaearthquakes_pruebaearthquakesUITests {
+  umbrella header "Pods-pruebaearthquakes-pruebaearthquakesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
